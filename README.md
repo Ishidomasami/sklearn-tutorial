@@ -8,9 +8,7 @@ google colaboで動作するように、若干のバグ修正を行った内容�
 
 @kochi0603
 
-y__samaのリポジトリは、↓
-
-https://github.com/y-sama/sklearn-tutorial
+- [y__samaのリポジトリ](https://github.com/y-sama/sklearn-tutorial)
 
 google colaboで実行するためのURL（ここのリポジトリを見ています）
 
