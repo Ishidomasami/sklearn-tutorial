@@ -1,6 +1,6 @@
 # sklearn-tutorial
 
-mishima.syk#8にて、y-samaが作成したsklearnのハンズオン資料です。
+[Mishima.syk#8](http://mishima-syk.github.io/mishimasyk/2016/05/28/Scikit-learn.html)にて、y-samaが作成したsklearnのハンズオン資料です。
 
 google colaboで動作するように、若干のバグ修正を行った内容を公開します(まだ途中。結構動かない箇所が多い。この分野の変化の速さだなぁ)。
 
